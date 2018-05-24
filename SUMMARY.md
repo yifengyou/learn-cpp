@@ -2,6 +2,7 @@
 
 * [CPP学习笔记](README.md)
 * [CPP简介](docs/CPP简介.md)
+* [CPP对C的扩展](docs/CPP对C的扩展.md)
 * [基本数据类型](docs/基本数据类型.md)
 * [运算符](docs/运算符.md)
 * [控制结构](docs/控制结构.md)
@@ -13,4 +14,3 @@
 * [预处理器指令](docs/预处理器指令.md)
 * [模板](docs/模板.md)
 * [STL](docs/STL.md)
-
