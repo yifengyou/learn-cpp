@@ -1,10 +1,14 @@
 # CPP学习笔记
 
+      Please watch or star this repo, I'll be more happy if you follow me~
+
 ## 仓库目录
 
 * [**Cpp-Primer-Plus-Answer**](Cpp-Primer-Plus-Answer/) Cpp Primer Plus 参考答案
 * [**C-plus-plus-For-the-Impatient**](C-plus-plus-For-the-Impatient/) 写给大忙人看的C++
 * [**学习笔记**](docs/) 学习笔记
+
+__建议Watch本repo, 可以收到更新的邮件推送(点右上角的Watch)__
 
 ## 参考书目
 
