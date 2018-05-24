@@ -8,6 +8,8 @@
 * [**C-plus-plus-For-the-Impatient**](C-plus-plus-For-the-Impatient/) 写给大忙人看的C++
 * [**学习笔记**](docs/) 学习笔记
 
+
+
 __建议Watch本repo, 可以收到更新的邮件推送(点右上角的Watch)__
 
 ## 参考书目
@@ -22,6 +24,11 @@ __建议Watch本repo, 可以收到更新的邮件推送(点右上角的Watch)__
 ## 为什么建这个项目
 
 为了学习，为了找工作
+
+
+## C++之父给 C 程序员的建议
+
+![1527164443425.png](image/1527164443425.png)
 
 ## 如何分享自己的东西
 
