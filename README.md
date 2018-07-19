@@ -1,29 +1,38 @@
 # CPP学习笔记
 
-      Please watch or star this repo, I'll be more happy if you follow me~
+## 本仓库内容
 
-## 仓库目录
+1. 汇编C++语言
+2. C++语言相关面试题解析
+3. [**Cpp-Primer-Plus-Answer**](Cpp-Primer-Plus-Answer/) Cpp Primer Plus 参考答案
+4. [**C-plus-plus-For-the-Impatient**](C-plus-plus-For-the-Impatient/) 写给大忙人看的C++
+5. [**学习笔记**](docs/) 学习笔记
 
-* [**Cpp-Primer-Plus-Answer**](Cpp-Primer-Plus-Answer/) Cpp Primer Plus 参考答案
-* [**C-plus-plus-For-the-Impatient**](C-plus-plus-For-the-Impatient/) 写给大忙人看的C++
-* [**学习笔记**](docs/) 学习笔记
+```
+Something I hope you know before go into the coding~
+First, please watch or star this repo, I'll be more happy if you follow me.
+Bug report, questions and discussion are welcome, you can post an issue or pull a request.
+```
+
+## 相关站点
+
+* GitHub地址:<https://github.com/yifengyou/learn-cpp>
+
+* GibBook地址:<https://yifengyou.gitbooks.io/learn-cpp/content/>
+
+## 目录
 
 
 
-__建议Watch本repo, 可以收到更新的邮件推送(点右上角的Watch)__
+
 
 ## 参考书目
 
-* C-plus-plus-For-the-Impatient
-* C++ Primer Plus (第6版) 中文版
+![1527159446734.png](image/1527159446734.png)
 
 ![1527159575717.png](image/1527159575717.png)
 
-![1527159446734.png](image/1527159446734.png)
 
-## 为什么建这个项目
-
-为了学习，为了找工作
 
 
 ## C++之父给 C 程序员的建议
@@ -34,3 +43,10 @@ __建议Watch本repo, 可以收到更新的邮件推送(点右上角的Watch)__
 
 你可以直接把想添加的内容发在 issues 里(想象成论坛的帖子), 我会添加进去
 或者Fork这个项目, 修改后再发起Pull Request来合并修改。
+
+## 总结
+
+```
+1. 懂汇编的娃才能学好C语言~
+2. 基础永远值得花费90%的精力去学习加强~
+```
