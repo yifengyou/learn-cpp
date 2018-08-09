@@ -50,9 +50,6 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 * [模板](docs/templates/README.md)
 * [STL](docs/STL/README.md)
 
-
-
-
 ## 参考书目
 
 ![1527159446734.png](image/1527159446734.png)
